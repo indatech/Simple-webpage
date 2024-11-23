@@ -72,9 +72,10 @@ body{
 
 #article a {
    text-decoration: none;
+   color: rgb(143, 83, 72);
 }
 
 #article a:hover {
-   background-color: rgb(85, 77, 102);
-   border-color: rgb(46, 5, 139) 1px solid;
+   background-color:rgb(86, 90, 110);
+   border-color: rgb(206, 75, 14) 1px solid;
 }
