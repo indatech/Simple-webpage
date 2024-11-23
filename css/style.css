@@ -35,6 +35,10 @@ body{
 
 }
 
+.clear {
+   clear: both;
+} 
+
 
 #contenido {
    padding-top: 40px;
@@ -78,3 +82,10 @@ body{
    background-color: rgb(85, 77, 102);
    border-color: rgb(46, 5, 139) 1px solid;
 }
+
+#container footer {
+   background-color: rgb(120, 124, 143);
+   color: rgb(10, 10, 10);
+   font-size: 15px;
+   text-align: center;
+} 
