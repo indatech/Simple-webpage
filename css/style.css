@@ -112,7 +112,6 @@ ul, ol {
 }
 
 #article a:hover {
-<<<<<<< HEAD
    background-color: rgb(85, 77, 102);
    border-color: rgb(46, 5, 139) 1px solid;
 }
@@ -122,9 +121,6 @@ ul, ol {
    color: rgb(10, 10, 10);
    font-size: 15px;
    text-align: center;
+   padding: 15px;
+
 } 
-=======
-   background-color:rgb(86, 90, 110);
-   border-color: rgb(206, 75, 14) 1px solid;
-}
->>>>>>> c72cf8f0fce9aabfc72c412f44031ed9b360fd95
